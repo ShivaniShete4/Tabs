@@ -8,4 +8,4 @@ Technology used: HTML, CSS, React JS.
 
 [Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
 
-This project is guided by John Smilga.
+###### This project is guided by John Smilga.
